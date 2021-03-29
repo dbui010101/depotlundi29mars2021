@@ -1,0 +1,5 @@
+Ce matin j'ai consacré mon temps a comprendre le json et regardez le code de lucas  de la colle pour comprendre json avec ajax , php 
+
+
+
+L apres midi j essaie d installer cake php
