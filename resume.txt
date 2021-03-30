@@ -3,3 +3,5 @@ Ce matin j'ai consacré mon temps a comprendre le json et regardez le code de lu
 
 
 L apres midi j essaie d installer cake php
+mardi 30
+matin : cv et lapres midi probleme dinstallation cakephp
