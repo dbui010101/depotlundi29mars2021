@@ -8,3 +8,6 @@ matin : cv et lapres midi probleme dinstallation cakephp
 
 mercredi 31 : installation cake succes + database
 apres midi cv
+
+
+jeudi 1 avril: lire la docu cake, puis lapres midi taper du code sur cake pour tester
