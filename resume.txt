@@ -11,3 +11,6 @@ apres midi cv
 
 
 jeudi 1 avril: lire la docu cake, puis lapres midi taper du code sur cake pour tester
+
+vendredi:
+ coder sur cake puis plein de bug puis jai supprimé le dossier et essayer de refaire clean mais casser
